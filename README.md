@@ -1,1 +1,2 @@
 # EUnixFlexMarket
+EUnixFlexMarket is a multi agent framework for simulating local flexibility exchange between grid operators and households. The model development is currently in progress and the documentation will be updated soon.
